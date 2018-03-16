@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/NagarajuBhusani/Desktop/Nagaraju/Ionic/YouthService/YouthService/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.3.0/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="df1a7a6af20c4eca090c1f535b77951ef6025bfb">
+        <dex dex="/Users/NagarajuBhusani/Desktop/Nagaraju/Ionic/YouthService/YouthService/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.3.0-debug_e60e29bb73100950c36e0d70de3c1c858ff444bc.jar" />
+    </item>
+
+</items>
